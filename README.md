@@ -1,4 +1,4 @@
 AppVidadesuporte
 ================
 
-iOS Application for iPad parsing feed of RSS and downloading images.
+iOS Application for iPad parsing feed and display images.
